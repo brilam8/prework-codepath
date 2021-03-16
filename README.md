@@ -39,14 +39,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src="http://g.recordit.co/NKlQQuJ58j.gif" width=250><br>
 
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
    MDN Web Docs
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+
    A challenge that I specifically encountered in creating this submission was following the logic of the code that we were
    asked to make for keeping track of progress and guesses. I was especially confused because I was not exactly sure what
    each variable represented at that time, so it messed my thinking up when I was trying to go through the code. However,
@@ -55,6 +58,7 @@ Here's a walkthrough of implemented user stories:
    track of guesses and our progress on the game itself.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+
    I have an incredible amount of questions now after completing my submission. First of all, it is incredible that you are able 
    to make such a game through just HTML, CSS, and JS. So, as expected, I am now immediately left wondering how much further
    can you take web development, and in what cases would we need multiple HTML, JS, or CSS files. In addition, since we
@@ -62,6 +66,7 @@ Here's a walkthrough of implemented user stories:
    be.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+
    I would definitely take some time to first digest the functions that were already written to try and understand them
    better. Then I would first try to do the optional features that were recommended that I have not done yet, such as
    adding a timer to guesses, and having a "three strikes" system, as I believe that would enhance the game by a big margin.
